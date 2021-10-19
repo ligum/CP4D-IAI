@@ -1,0 +1,33 @@
+# Welcome to IBM Cloud pak for data workshop !
+
+## Day 1:
+
+### Step 1 - Know the environment
+
+[Overview of Cloud Pak for Data as a Service](https://eu-gb.dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/overview-cpdaas.html?context=cpdaas&audience=wdp)
+
+[Analyzing data and building models](https://eu-gb.dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/data-science.html?context=cpdaas&audience=wdp)
+
+[Choosing the right tool](https://eu-gb.dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/tools.html?context=cpdaas&audience=wdp)
+
+### Step 2 - Add data and refine it
+
+[Quick start: Refine data](https://eu-gb.dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/get-started-refine.html?context=cpdaas&audience=wdp)
+
+### Step 3 - Use jupyter notebooks
+
+[Notebooks](https://eu-gb.dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/notebooks-parent.html?context=cpdaas&audience=wdp)
+
+### Step 4 - Use AutoAI
+
+[AutoAI](https://eu-gb.dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/autoai-overview.html?context=cpdaas&audience=wdp)
+
+### Step 5 - Use SPSS modeler flow
+
+[SPSS Modeler flows](https://eu-gb.dataplatform.cloud.ibm.com/docs/content/wsd/spss-modeler.html?context=cpdaas&audience=wdp)
+
+### Step 6 - Use dashboards
+
+[Cognos dashboards](https://eu-gb.dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/analytics-dashboard.html?context=cpdaas&audience=wdp)
+
+## Day 2:
