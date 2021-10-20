@@ -1,5 +1,7 @@
 # Welcome to IBM Cloud pak for data workshop !
 
+Register to IBM Cloud: https://ibm.biz/Bdf85R
+
 ## Day 1:
 
 ### Step 1 - Know the environment
@@ -12,7 +14,7 @@
 
 ### Step 2 - Add data and refine it
 
-[Quick start: Refine data](https://eu-gb.dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/get-started-refine.html?context=cpdaas&audience=wdp)
+[Refine data](https://eu-gb.dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/get-started-refine.html?context=cpdaas&audience=wdp)
 
 ### Step 3 - Use jupyter notebooks
 
