@@ -20,6 +20,8 @@ Register to IBM Cloud: https://ibm.biz/Bdf85R
 
 [Notebooks](https://eu-gb.dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/notebooks-parent.html?context=cpdaas&audience=wdp)
 
+Link to notebook for workshop: https://raw.githubusercontent.com/tal2k4xj/CP4D-IAI/main/Machine-Learning-for-Equipment-Failure-Prediction.ipynb
+
 ### Step 4 - Use AutoAI
 
 [AutoAI](https://eu-gb.dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/autoai-overview.html?context=cpdaas&audience=wdp)
