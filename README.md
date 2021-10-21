@@ -2,8 +2,6 @@
 
 Register to IBM Cloud: https://ibm.biz/Bdf85R
 
-## Day 1:
-
 ### Step 1 - Know the environment
 
 [Overview of Cloud Pak for Data as a Service](https://eu-gb.dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/overview-cpdaas.html?context=cpdaas&audience=wdp)
@@ -32,6 +30,4 @@ Link to notebook for workshop: https://raw.githubusercontent.com/tal2k4xj/CP4D-I
 
 ### Step 6 - Use dashboards
 
-[Cognos dashboards](https://eu-gb.dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/analytics-dashboard.html?context=cpdaas&audience=wdp)
-
-## Day 2:
+[Cognos dashboards](https://eu-gb.dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/get-start-story.html?context=cpdaas&audience=wdp)
