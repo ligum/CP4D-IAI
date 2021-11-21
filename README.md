@@ -10,6 +10,8 @@ Register to IBM Cloud: https://ibm.biz/Bdf85R
 
 [Choosing the right tool](https://eu-gb.dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/tools.html?context=cpdaas&audience=wdp)
 
+[Video Library](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/videos.html)
+
 ### Step 2 - Add data and refine it
 
 [Refine data](https://eu-gb.dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/get-started-refine.html?context=cpdaas&audience=wdp)
