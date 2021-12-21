@@ -1,6 +1,6 @@
 # Welcome to IBM Cloud pak for data workshop !
 
-Register to IBM Cloud: https://ibm.biz/Bdf85R
+Register to IBM Cloud: https://ibm.biz/BdfCee
 
 ### Step 1 - Know the environment
 
@@ -16,19 +16,19 @@ Register to IBM Cloud: https://ibm.biz/Bdf85R
 
 [Refine data](https://eu-gb.dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/get-started-refine.html?context=cpdaas&audience=wdp)
 
-### Step 3 - Use jupyter notebooks
+### Step 3 - Use AutoAI
+
+[AutoAI](https://eu-gb.dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/autoai-overview.html?context=cpdaas&audience=wdp)
+
+### Step 4 - Use SPSS modeler flow
+
+[SPSS Modeler flows](https://eu-gb.dataplatform.cloud.ibm.com/docs/content/wsd/spss-modeler.html?context=cpdaas&audience=wdp)
+
+### Step 5 - Use jupyter notebooks
 
 [Notebooks](https://eu-gb.dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/notebooks-parent.html?context=cpdaas&audience=wdp)
 
 Link to notebook for workshop: https://raw.githubusercontent.com/tal2k4xj/CP4D-IAI/main/Machine-Learning-for-Equipment-Failure-Prediction.ipynb
-
-### Step 4 - Use AutoAI
-
-[AutoAI](https://eu-gb.dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/autoai-overview.html?context=cpdaas&audience=wdp)
-
-### Step 5 - Use SPSS modeler flow
-
-[SPSS Modeler flows](https://eu-gb.dataplatform.cloud.ibm.com/docs/content/wsd/spss-modeler.html?context=cpdaas&audience=wdp)
 
 ### Step 6 - Use dashboards
 
