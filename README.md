@@ -1,6 +1,6 @@
 # Welcome to IBM Cloud pak for data workshop !
 
-Register to IBM Cloud: https://ibm.biz/BdfCee
+Register to IBM Cloud: https://ibm.biz/Bdf36D 
 
 ### Step 1 - Know the environment
 
