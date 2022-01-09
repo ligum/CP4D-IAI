@@ -1,0 +1,63 @@
+{
+	"input_data": [
+		{
+			"fields": [
+				"CUSTOMER_ID",
+				"GENDER",
+				"DOB",
+				"EDUC_LEVEL",
+				"MARITAL_STATUS",
+				"HOUSEHOLD_SIZE",
+				"HOUSEHOLD_INCOME",
+				"YEARS_AT_CURRENT_ADDRESS",
+				"POSTAL_CODE",
+				"REGION",
+				"YEARS_WITH_CURRENT_EMPLOYER",
+				"RETIRED",
+				"SOCIAL_MEDIA",
+				"TV",
+				"PREFERRED_CONTACT",
+				"CUSTOMER_CATEGORY",
+				"MONTHS_WITH_SERVICE",
+				"TOLL_FREE_SERVICE",
+				"EQUIPMENT_RENTAL",
+				"CALLING_CARD_SERVICE",
+				"WIRELESS_SERVICE",
+				"LONGDISTANCE_LAST_MONTH",
+				"TOLLFREE_LAST_MONTH",
+				"EQUIPMENT_LAST_MONTH",
+				"CALLINGCARD_LAST_MONTH",
+				"WIRELESS_LAST_MONTH",
+				"LONGDISTANCE_OVER_TENURE",
+				"TOLLFREE_OVER_TENURE",
+				"EQUIPMENT_OVER_TENURE",
+				"CALLING_CARD_OVER_TENURE",
+				"WIRELESS_OVER_TENURE",
+				"MULTIPLE_LINES",
+				"VOICEMAIL",
+				"PAGING_SERVICE",
+				"INTERNET",
+				"CALLER_ID",
+				"CALL_WAITING",
+				"CALL_FORWARDING",
+				"THREE_WAY_CALLING",
+				"ELECTRONIC_BILLING",
+				"RECEIVED_LETTER_OF_THANKS"
+			],
+			"values": [
+				[
+					10001,"Female","1982-10-05",1,"Unmarried",1,25,3,137,1,6,"No","","Yes","e-mail","Plus service",2,"Yes","Yes","Yes","Yes",1.900000,15.750000,28.700000,5.000000,24.150000,3.600000,23.050000,29.050000,5.000000,20.950000,"No","No","Yes","No","Yes","Yes","Yes","Yes","No",""
+				],
+				[
+					10027,"Male","1965-11-29",1,"Married",2,34,21,144,1,8,"No","","Yes","e-mail","Plus service",55,"No","No","No","No",5.700000,0.000000,0.000000,0.000000,0.000000,304.400000,0.000000,0.000000,0.000000,0.000000,"No","No","No","No","No","Yes","Yes","Yes","No",""
+				],
+				[
+					10050,"Female","1985-02-18",1,"Unmarried",3,29,4,267,2,4,"No","Yes","Yes","e-mail","Basic service",7,"No","Yes","No","No",4.650000,0.000000,28.350000,0.000000,0.000000,35.450000,0.000000,166.500000,0.000000,0.000000,"No","No","No","Yes","No","No","No","No","Yes",""
+				],
+				[
+					10003,"Female","1966-05-16",1,"Married",2,116,24,341,3,29,"No","","Yes","e-mail","Plus service",68,"Yes","No","Yes","No",18.150000,18.000000,0.000000,30.250000,0.000000,1300.600000,1247.200000,0.000000,2150.000000,0.000000,"No","No","No","No","Yes","Yes","No","Yes","No",""
+				]
+			]
+		}
+	]
+}
